@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Vivisezione.github.io/TMDRA/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Vivisezione/TMDRA project"
+        ]
+    },
+    "items": []
+}
