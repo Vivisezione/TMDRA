@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Vivisezione.github.io/TMDRA/manifests/manifest.json",
     "label" : "example"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Vivisezione.github.io/TMDRA/manifests/anothermanifest.json",
+    "label" : "example"
   } ]
 }
