@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Vivisezione.github.io/TMDRA/manifests/anothermanifest.json",
   "@type" : "sc:Manifest",
-  "label" : "example",
+  "label" : "addingcanvasexample",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "an example ",
