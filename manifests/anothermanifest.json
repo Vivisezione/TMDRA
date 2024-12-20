@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Vivisezione.github.io/TMDRA/manifests/anothermanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "example",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "an example ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "vivi",
+  "sequences" : [ {
+    "@id" : "http://91806182-d573-47e6-9e7f-e2445fd19823",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://886ed54a-c1bf-467d-a0ad-adca0db7fe22",
+      "@type" : "sc:Canvas",
+      "label" : "yarn",
+      "height" : 3882,
+      "width" : 3106,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://56323807-bad3-46b4-83fb-f9409b1cd911",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/TMDRA/images/yarn/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/TMDRA/images/yarn",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3882,
+          "width" : 3106
+        },
+        "on" : "http://886ed54a-c1bf-467d-a0ad-adca0db7fe22"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://be79f4ff-3fff-4fd2-a8d0-8ce3e8fd27c9",
+      "@type" : "sc:Canvas",
+      "label" : "dog",
+      "height" : 7279,
+      "width" : 4852,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f35a35ec-88b9-41e2-825e-f23bb9241544",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/TMDRA/images/dog/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/TMDRA/images/dog",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7279,
+          "width" : 4852
+        },
+        "on" : "http://be79f4ff-3fff-4fd2-a8d0-8ce3e8fd27c9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://51a2eec0-f31c-4fdb-a035-866e6383fc42",
+      "@type" : "sc:Canvas",
+      "label" : "graffiti",
+      "height" : 426,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f65a0ce8-0b76-409a-a1f7-1728c45a2952",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://rossanadamiano.github.io/TMDRA23/images/cuneiform/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://rossanadamiano.github.io/TMDRA23/images/cuneiform",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 426,
+          "width" : 640
+        },
+        "on" : "http://51a2eec0-f31c-4fdb-a035-866e6383fc42"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ef7cb389-541a-44dd-a6ed-af9be0ebde81",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4411,
+      "width" : 3030,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4dfdaa15-582e-48b3-bd72-c6b58e09f26e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/TMDRA/images/street/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/TMDRA/images/street",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4411,
+          "width" : 3030
+        },
+        "on" : "http://ef7cb389-541a-44dd-a6ed-af9be0ebde81"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
