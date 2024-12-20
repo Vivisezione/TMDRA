@@ -98,7 +98,7 @@
     }, {
       "@id" : "http://ef7cb389-541a-44dd-a6ed-af9be0ebde81",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "street",
       "height" : 4411,
       "width" : 3030,
       "images" : [ {
