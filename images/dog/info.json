@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 152,
+    "height" : 228
+  }, {
+    "width" : 304,
+    "height" : 455
+  }, {
+    "width" : 607,
+    "height" : 910
+  }, {
+    "width" : 1213,
+    "height" : 1820
+  }, {
+    "width" : 2426,
+    "height" : 3640
+  }, {
+    "width" : 4852,
+    "height" : 7279
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4852,
+  "@id" : "https://Vivisezione.github.io/TMDRA/images/dog",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7279
+}
